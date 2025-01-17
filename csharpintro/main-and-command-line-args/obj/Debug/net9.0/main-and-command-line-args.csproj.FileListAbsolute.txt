@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/main-and-command-line-args/bin/Debug/net9.0/main-and-command-line-args
+/Users/susanne/Repos/pma2025/main-and-command-line-args/bin/Debug/net9.0/main-and-command-line-args.deps.json
+/Users/susanne/Repos/pma2025/main-and-command-line-args/bin/Debug/net9.0/main-and-command-line-args.runtimeconfig.json
+/Users/susanne/Repos/pma2025/main-and-command-line-args/bin/Debug/net9.0/main-and-command-line-args.dll
+/Users/susanne/Repos/pma2025/main-and-command-line-args/bin/Debug/net9.0/main-and-command-line-args.pdb
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.sourcelink.json
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.dll
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/refint/main-and-command-line-args.dll
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.pdb
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/main-and-command-line-args.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/main-and-command-line-args/obj/Debug/net9.0/ref/main-and-command-line-args.dll

@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/bin/Debug/net9.0/07arrays
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/bin/Debug/net9.0/07arrays.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/bin/Debug/net9.0/07arrays.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/bin/Debug/net9.0/07arrays.dll
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/bin/Debug/net9.0/07arrays.pdb
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.dll
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/refint/07arrays.dll
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.pdb
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/07arrays.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/07arrays/obj/Debug/net9.0/ref/07arrays.dll

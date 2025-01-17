@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/bin/Debug/net9.0/08UserInput
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/bin/Debug/net9.0/08UserInput.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/bin/Debug/net9.0/08UserInput.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/bin/Debug/net9.0/08UserInput.dll
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/bin/Debug/net9.0/08UserInput.pdb
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.dll
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/refint/08UserInput.dll
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.pdb
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/08UserInput.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/08UserInput/obj/Debug/net9.0/ref/08UserInput.dll

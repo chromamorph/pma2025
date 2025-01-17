@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/bin/Debug/net9.0/06conditionals
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/bin/Debug/net9.0/06conditionals.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/bin/Debug/net9.0/06conditionals.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/bin/Debug/net9.0/06conditionals.dll
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/bin/Debug/net9.0/06conditionals.pdb
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.dll
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/refint/06conditionals.dll
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.pdb
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/06conditionals.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/06conditionals/obj/Debug/net9.0/ref/06conditionals.dll

@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/05loops/bin/Debug/net9.0/05loops
+/Users/susanne/Repos/pma2025/csharpintro/05loops/bin/Debug/net9.0/05loops.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/05loops/bin/Debug/net9.0/05loops.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/05loops/bin/Debug/net9.0/05loops.dll
+/Users/susanne/Repos/pma2025/csharpintro/05loops/bin/Debug/net9.0/05loops.pdb
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.dll
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/refint/05loops.dll
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.pdb
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/05loops.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/05loops/obj/Debug/net9.0/ref/05loops.dll

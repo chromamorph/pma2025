@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.sourcelink.json
+/Users/susanne/Repos/pma2025/substitutability/bin/Debug/net9.0/substitutability
+/Users/susanne/Repos/pma2025/substitutability/bin/Debug/net9.0/substitutability.deps.json
+/Users/susanne/Repos/pma2025/substitutability/bin/Debug/net9.0/substitutability.runtimeconfig.json
+/Users/susanne/Repos/pma2025/substitutability/bin/Debug/net9.0/substitutability.dll
+/Users/susanne/Repos/pma2025/substitutability/bin/Debug/net9.0/substitutability.pdb
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.dll
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/refint/substitutability.dll
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.pdb
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/substitutability.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/substitutability/obj/Debug/net9.0/ref/substitutability.dll

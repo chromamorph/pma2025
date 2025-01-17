@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/helloworld-oo/bin/Debug/net9.0/helloworld-oo
+/Users/susanne/Repos/pma2025/helloworld-oo/bin/Debug/net9.0/helloworld-oo.deps.json
+/Users/susanne/Repos/pma2025/helloworld-oo/bin/Debug/net9.0/helloworld-oo.runtimeconfig.json
+/Users/susanne/Repos/pma2025/helloworld-oo/bin/Debug/net9.0/helloworld-oo.dll
+/Users/susanne/Repos/pma2025/helloworld-oo/bin/Debug/net9.0/helloworld-oo.pdb
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.sourcelink.json
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.dll
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/refint/helloworld-oo.dll
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.pdb
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/helloworld-oo.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/helloworld-oo/obj/Debug/net9.0/ref/helloworld-oo.dll

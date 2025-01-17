@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/bin/Debug/net9.0/02boolean
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/bin/Debug/net9.0/02boolean.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/bin/Debug/net9.0/02boolean.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/bin/Debug/net9.0/02boolean.dll
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/bin/Debug/net9.0/02boolean.pdb
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.dll
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/refint/02boolean.dll
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.pdb
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/02boolean.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/02boolean/obj/Debug/net9.0/ref/02boolean.dll

@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/bin/Debug/net9.0/04doubles
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/bin/Debug/net9.0/04doubles.deps.json
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/bin/Debug/net9.0/04doubles.runtimeconfig.json
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/bin/Debug/net9.0/04doubles.dll
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/bin/Debug/net9.0/04doubles.pdb
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.sourcelink.json
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.dll
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/refint/04doubles.dll
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.pdb
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/04doubles.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/csharpintro/04doubles/obj/Debug/net9.0/ref/04doubles.dll

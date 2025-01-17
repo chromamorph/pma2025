@@ -1,0 +1,15 @@
+/Users/susanne/Repos/pma2025/helloworld-console/bin/Debug/net9.0/helloworld-console
+/Users/susanne/Repos/pma2025/helloworld-console/bin/Debug/net9.0/helloworld-console.deps.json
+/Users/susanne/Repos/pma2025/helloworld-console/bin/Debug/net9.0/helloworld-console.runtimeconfig.json
+/Users/susanne/Repos/pma2025/helloworld-console/bin/Debug/net9.0/helloworld-console.dll
+/Users/susanne/Repos/pma2025/helloworld-console/bin/Debug/net9.0/helloworld-console.pdb
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.AssemblyInfoInputs.cache
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.AssemblyInfo.cs
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.csproj.CoreCompileInputs.cache
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.sourcelink.json
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.dll
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/refint/helloworld-console.dll
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.pdb
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/helloworld-console.genruntimeconfig.cache
+/Users/susanne/Repos/pma2025/helloworld-console/obj/Debug/net9.0/ref/helloworld-console.dll
